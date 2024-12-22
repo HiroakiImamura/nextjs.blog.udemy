@@ -28,7 +28,7 @@ export default function Home({ allPostData }) {
       </Head>
     <section className={utilStyle.headingMd}>
       <p>
-        私はフルスタックエンジニアです
+        私はフルスタックエンジニアです。好きなフレームワークはnex.jsです。
       </p>
     </section>
 
